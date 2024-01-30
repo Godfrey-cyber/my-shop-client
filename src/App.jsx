@@ -7,6 +7,8 @@ function App() {
   return (
       <div className="h-screen w-full bg-red-100">
         <p className="text-gray-600 font-bold text-lg">Hello my shop</p>
+        <p className="text-gray-600 font-bold text-lg">Hello my shop</p>
+        <p className="text-gray-600 font-bold text-lg">Hello my shop</p>
       </div>
   )
 }
